@@ -10,7 +10,7 @@ h1 {
 }
 
 .header {
-  background-image: url(../../img/beach.jpg);
+  background-image: url(../img/beach.jpg);
   background-size: cover;
   background-position: center;
   padding: 33.5vh 0 43.5vh;
