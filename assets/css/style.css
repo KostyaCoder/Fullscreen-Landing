@@ -1,0 +1,60 @@
+body {
+  color: #926239;
+  line-height: 1.6;
+  font-size: 17px;
+}
+
+h1 {
+  font-size: 50px;
+  font-weight: bold;
+}
+
+.header {
+  background-image: url(../../img/beach.jpg);
+  background-size: cover;
+  background-position: center;
+  padding: 33.5vh 0 43.5vh;
+  text-align: center;
+}
+
+.p-header {
+  font-size: 20px;
+}
+
+.button {
+  padding: 10px 20px;
+  font-size: 18px;
+  background-color: white;
+  border: #926239 1px solid;
+  color: #926239;
+  border-radius: 10px;
+  margin-top: 20px;
+}
+
+.button:hover {
+  background-color: #926239;
+  color: white;
+}
+
+.section-block {
+  padding: 20px;
+}
+.section-line {
+  display: inline-block;
+  box-sizing: border-box;
+  max-width: 33%;
+  padding: 13px;
+}
+
+.font-dark {
+  color: white;
+  background-color: #926239;
+}
+
+.font-grey {
+  background-color: #f4f4f4;
+}
+
+.font-white {
+  background-color: #f9f9f9;
+}
