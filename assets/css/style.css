@@ -22,7 +22,8 @@ h1 {
   background-image: url(../img/beach.jpg);
   background-size: cover;
   background-position: center;
-  padding: 33.5vh 0 43.5vh;
+  min-height: 100vh;
+  padding: 35vh 30px;
   text-align: center;
 }
 
